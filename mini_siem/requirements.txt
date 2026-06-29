@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+SQLAlchemy
+pywin32>=306; platform_system == "Windows"
+requests
+pyinstaller
