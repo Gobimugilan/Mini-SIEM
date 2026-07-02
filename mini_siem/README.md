@@ -186,13 +186,6 @@ The executable stores its SQLite database in `dist\MiniSIEM\data\logs.db`.
 - `ai_mitre_mapping`
 - `ai_recommended_remediation`
 
-## Screenshots
-
-Add your screenshots here after running the application:
-
-- Dashboard overview: `screenshots/dashboard-overview.png`
-- Alerts table: `screenshots/recent-alerts.png`
-- AI analyst section: `screenshots/ai-analysis.png`
 
 ## Notes
 
